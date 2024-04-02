@@ -305,5 +305,20 @@
     "theme": {
       "__resolveType": "Serene Coastline"
     }
+  },
+  "collections/blog/posts/898980c0f006": {
+    "name": "collections/blog/posts/898980c0f006",
+    "__resolveType": "blog/loaders/Blogpost.ts",
+    "post": {
+      "authors": [
+        {
+          "name": "Tay",
+          "email": "tay@gmail.com"
+        }
+      ],
+      "title": "Nisa",
+      "subtitle": "ta",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5237/2839a9b9-95ee-44b0-a52f-dc9559540f2a"
+    }
   }
 }
